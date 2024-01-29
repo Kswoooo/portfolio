@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5a8f5dce.css",
+    "main.js": "/portfolio/static/js/main.31abd60d.js",
+    "static/media/node.png": "/portfolio/static/media/node.ae9589a989fc017200d2.png",
+    "static/media/me.jpeg": "/portfolio/static/media/me.fe3180522608ab8cb6e4.jpeg",
+    "static/media/profile.png": "/portfolio/static/media/profile.14171d47c4185c3f29ef.png",
+    "static/media/about.png": "/portfolio/static/media/about.92474c4098b617fdfd39.png",
+    "static/media/java.png": "/portfolio/static/media/java.6b69aa9efb979367dd5c.png",
+    "static/media/footer.png": "/portfolio/static/media/footer.25794634ecd2246b2ec1.png",
+    "static/media/quiz02.png": "/portfolio/static/media/quiz02.6aef7d036771504f3339.png",
+    "static/media/intro.png": "/portfolio/static/media/intro.138ebe9ee766d8325574.png",
+    "static/media/quiz01.png": "/portfolio/static/media/quiz01.2d564bb6024ef541d704.png",
+    "static/media/board.png": "/portfolio/static/media/board.c5f38df9fd2a0bc48e86.png",
+    "static/media/quiz.png": "/portfolio/static/media/quiz.f4440f7d1f59f665c815.png",
+    "static/media/skills.png": "/portfolio/static/media/skills.51636fbafdf868ebe32e.png",
+    "static/media/board_read.png": "/portfolio/static/media/board_read.93f4ce88d701c434d25f.png",
+    "static/media/board_update.png": "/portfolio/static/media/board_update.7684e6bdb061b2cfcdfc.png",
+    "static/media/board_create.png": "/portfolio/static/media/board_create.f7ae6a496f2d70dc9e79.png",
+    "static/media/oracle.png": "/portfolio/static/media/oracle.cbacfd76414c91d4f565.png",
+    "static/media/react.png": "/portfolio/static/media/react.0e7511c2b3a9cda33ac9.png",
+    "static/media/redux.png": "/portfolio/static/media/redux.3be9e94e2548a046b2a6.png",
+    "static/media/jquery.png": "/portfolio/static/media/jquery.3254df301a2b73835717.png",
+    "index.html": "/portfolio/index.html",
+    "main.5a8f5dce.css.map": "/portfolio/static/css/main.5a8f5dce.css.map",
+    "main.31abd60d.js.map": "/portfolio/static/js/main.31abd60d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a8f5dce.css",
+    "static/js/main.31abd60d.js"
+  ]
+}
