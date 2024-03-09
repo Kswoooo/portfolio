@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5a8f5dce.css",
-    "main.js": "/portfolio/static/js/main.2e527732.js",
+    "main.js": "/portfolio/static/js/main.02eece31.js",
     "static/media/node.png": "/portfolio/static/media/node.ae9589a989fc017200d2.png",
     "static/media/me.jpeg": "/portfolio/static/media/me.fe3180522608ab8cb6e4.jpeg",
     "static/media/profile.png": "/portfolio/static/media/profile.14171d47c4185c3f29ef.png",
@@ -18,15 +18,21 @@
     "static/media/board_update.png": "/portfolio/static/media/board_update.7684e6bdb061b2cfcdfc.png",
     "static/media/board_create.png": "/portfolio/static/media/board_create.f7ae6a496f2d70dc9e79.png",
     "static/media/oracle.png": "/portfolio/static/media/oracle.cbacfd76414c91d4f565.png",
+    "static/media/hugging_face.png": "/portfolio/static/media/hugging_face.1d0d16409130677d19a6.png",
+    "static/media/waving_hand.png": "/portfolio/static/media/waving_hand.ec33146df183e86a22e3.png",
+    "static/media/direct_hit.png": "/portfolio/static/media/direct_hit.4163829feda8ed6dd9b1.png",
+    "static/media/winking_face.png": "/portfolio/static/media/winking_face.cf93d03a0f8289e7d9b8.png",
+    "static/media/fire.png": "/portfolio/static/media/fire.a3f436f73c71c388f802.png",
     "static/media/react.png": "/portfolio/static/media/react.0e7511c2b3a9cda33ac9.png",
+    "static/media/flexed_biceps.png": "/portfolio/static/media/flexed_biceps.83db13f9d2b99508b8fe.png",
     "static/media/redux.png": "/portfolio/static/media/redux.3be9e94e2548a046b2a6.png",
     "static/media/jquery.png": "/portfolio/static/media/jquery.3254df301a2b73835717.png",
     "index.html": "/portfolio/index.html",
     "main.5a8f5dce.css.map": "/portfolio/static/css/main.5a8f5dce.css.map",
-    "main.2e527732.js.map": "/portfolio/static/js/main.2e527732.js.map"
+    "main.02eece31.js.map": "/portfolio/static/js/main.02eece31.js.map"
   },
   "entrypoints": [
     "static/css/main.5a8f5dce.css",
-    "static/js/main.2e527732.js"
+    "static/js/main.02eece31.js"
   ]
 }
